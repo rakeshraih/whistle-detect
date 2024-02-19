@@ -1,0 +1,8 @@
+pyaudio
+numpy
+librosa
+scikit-learn
+scipy
+# struct
+# math
+sounddevice
